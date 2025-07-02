@@ -511,4 +511,10 @@ body {
     .restaurant-meta span {
         color: #a0aec0;
     }
+}
+
+.quickbite-brand {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
 } 
